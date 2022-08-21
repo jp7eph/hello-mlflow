@@ -18,3 +18,13 @@ docker-compose up -d
 # 停止処理
 docker-compose down
 ```
+
+## 各種画面
+
+| 概要 | URL |
+| --- | --- |
+| MLflow UI | {サーバのIP}:5001 |
+| MinIO API | {サーバのIP}:9000 |
+| MinIO Console | {サーバのIP}:9001 |
+| Postgres Server | {サーバのIP}:5432 |
+| pgAdmin | {サーバのIP}:81 | 
