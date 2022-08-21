@@ -1,0 +1,5 @@
+venv/
+.ipynb_checkpoints/
+buckets/.minio.sys/
+
+db_server/
